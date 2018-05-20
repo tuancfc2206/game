@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525977399 source:d:\sdl_cb\project game\a\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1526145629 source:d:\sdl_cb\project\a\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1526526156 source:d:\games\a\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
